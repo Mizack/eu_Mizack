@@ -2,16 +2,25 @@ Aoooooooooba ✌️<br> Tudo em riba???
 ---------------------------------------
 <strong>Sou um Desenvolvedor de automatizações em Python e aplicações Web que ama aprender e resolver problemas.</strong>
 <p>Iniciei meus estudos na programação em 2020, com o desenvolvimento Web (HTML5, CSS3, JS e Bootstrap). Em 2021, através da linguagem Python, passei a desenvolver automatizações e Scripts, onde lido com a manipulação de dados e arquivos a fim de resolver determinados problemas.</p>
-
-<strong>Entre em contato comigo e me conheça melhor!</strong> <br><br>
-Número:
-+55 (11) 98679-0668 <br><br>
-![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)   <br><br>
-Perfil LinkedIn:  https://www.linkedin.com/in/mizack-mianuti-tomaz-5563b519a/<br><br>
-![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br><br>
-E-mail: mizack.m.tomaz@gmail.com <br><br>
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br><br>
-<strong>🛠 Linguagens e Ferramentas que trabalho/trabalhei:</strong>
+<div>
+    <h4>Um resumo sobre o meu perfil:</h4>
+  <a href="https://github.com/Mizack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizack&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div>    
+    <h4>Entre em contato comigo e me conheça melhor!</h4>
+    <a href="https://www.linkedin.com/in/mizack-mianuti-tomaz-5563b519a">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:mizack.m.tomaz@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://discord.com/channels/mizackkk#2195">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</div>
+<h4>🛠 Linguagens e Ferramentas que trabalho/trabalhei:</h4>
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
