@@ -7,6 +7,8 @@ Aoooooooooba ✌️<br> Tudo em riba???
   <a href="https://github.com/Mizack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizack&layout=compact&langs_count=7&theme=tokyonight"/>
+  <br>
+  <img height="25em" src="https://komarev.com/ghpvc/?username=Mizack&color=blue" 
 </div>
 <div>    
     <h4>Entre em contato comigo e me conheça melhor!</h4>
