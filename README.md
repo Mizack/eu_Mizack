@@ -1,4 +1,6 @@
-Aoooooooooba ✌️<br> Tudo em riba???
+<img
+     src="https://readme-typing-svg.herokuapp.com?lines=Mizack+Mianuti"
+            alt="Typing SVG"/> 
 ---------------------------------------
 <strong>Sou um Desenvolvedor de automatizações em Python e aplicações Web que ama aprender e resolver problemas.</strong>
 <p>Iniciei meus estudos na programação em 2020, com o desenvolvimento Web (HTML5, CSS3, JS e Bootstrap). Em 2021, através da linguagem Python, passei a desenvolver automatizações e Scripts, onde lido com a manipulação de dados e arquivos a fim de resolver determinados problemas.</p>
